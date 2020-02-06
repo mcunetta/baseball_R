@@ -23,3 +23,7 @@ In order to have a working copy of the code in the book, download the zip file o
 
 
 Last updated: ```r format(Sys.Date(), "%B %e, %Y")```
+
+# Reviews
+
+- Downie, T. (2019). Analyzing Baseball Data with R (2nd Edition). *Journal of Statistical Software*, 90(Book Review 1), 1-4. doi: http://dx.doi.org/10.18637/jss.v090.b01
