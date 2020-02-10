@@ -265,7 +265,7 @@ Results <- player_list %>%
   map_df(summarize_streak_data, data = LS_250) %>%
   mutate(Player = player_list)
 
-## ----scatter, fig.cap="Scatterplot of means and standard deviations of the five-game averages of launch speeds of regular players during the 2017 season.  The labelled points correspond to the players with the smallest and largest standard deviations, corresponding to consistent and streaky hitters."----
+## ----scatter, fig.cap="Scatterplot of means and standard deviations of the five-game averages of launch speeds of regular players during the 2017 season.  The labeled points correspond to the players with the smallest and largest standard deviations, corresponding to consistent and streaky hitters."----
 library(ggrepel)
 ggplot(Results, aes(Mean, SD)) +
   geom_point() +
