@@ -2,6 +2,7 @@
 ## September 2021
 
 1.  Page 17, top line. Manny Alexander (not Chris Hoiles) played second base
+    Page 18: First sentence of 1.3.5. Replace "September 9, 1995" with "September 6, 1995" .
     On page 18, the description for Table 1.6 says September 9, 1995. It should be September 6, 1995.
 
 2.  Page 27, line 5. In the first answer “median launch speed” should be “median launch angle”.
